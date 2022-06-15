@@ -1,0 +1,8 @@
+[ru]
+H_TAG = ^1[^4Шапки^1]
+H_NO_HATS = На вас нету ^4шапки.
+H_REMOVE = Вы сняли ^4шапку.
+H_SET = Вы одели шапку -^4 %s.
+
+HMENU_TITLE = \r[\yHatsMenu\r] \wВыбор
+HMENU_REMOVE = \wСнять шапку
